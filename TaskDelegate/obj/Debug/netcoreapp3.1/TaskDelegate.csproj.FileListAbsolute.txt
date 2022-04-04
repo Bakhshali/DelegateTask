@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\TaskDelegate\TaskDelegate\bin\Debug\netcoreapp3.1\TaskDelegate.exe
+C:\Users\Ali\source\repos\TaskDelegate\TaskDelegate\bin\Debug\netcoreapp3.1\TaskDelegate.deps.json
+C:\Users\Ali\source\repos\TaskDelegate\TaskDelegate\bin\Debug\netcoreapp3.1\TaskDelegate.runtimeconfig.json
+C:\Users\Ali\source\repos\TaskDelegate\TaskDelegate\bin\Debug\netcoreapp3.1\TaskDelegate.runtimeconfig.dev.json
+C:\Users\Ali\source\repos\TaskDelegate\TaskDelegate\bin\Debug\netcoreapp3.1\TaskDelegate.dll
+C:\Users\Ali\source\repos\TaskDelegate\TaskDelegate\bin\Debug\netcoreapp3.1\TaskDelegate.pdb
+C:\Users\Ali\source\repos\TaskDelegate\TaskDelegate\obj\Debug\netcoreapp3.1\TaskDelegate.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\TaskDelegate\TaskDelegate\obj\Debug\netcoreapp3.1\TaskDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\TaskDelegate\TaskDelegate\obj\Debug\netcoreapp3.1\TaskDelegate.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\TaskDelegate\TaskDelegate\obj\Debug\netcoreapp3.1\TaskDelegate.AssemblyInfo.cs
+C:\Users\Ali\source\repos\TaskDelegate\TaskDelegate\obj\Debug\netcoreapp3.1\TaskDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\TaskDelegate\TaskDelegate\obj\Debug\netcoreapp3.1\TaskDelegate.dll
+C:\Users\Ali\source\repos\TaskDelegate\TaskDelegate\obj\Debug\netcoreapp3.1\TaskDelegate.pdb
+C:\Users\Ali\source\repos\TaskDelegate\TaskDelegate\obj\Debug\netcoreapp3.1\TaskDelegate.genruntimeconfig.cache
